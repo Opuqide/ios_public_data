@@ -1,0 +1,30 @@
+{
+  "iPhoneOS":{
+    "Version":"18.5",
+    "BetaVersion":"26.0"
+  },
+  "iPadOS":{
+    "Version":"18.5",
+    "BetaVersion":"26.0"
+  },
+  "tvOS":{
+    "Version":"18.5",
+    "BetaVersion":"26.0"
+  },
+  "watchOS":{
+    "Version":"11.5",
+    "BetaVersion":"26.0"
+  }
+  "macOS":{
+    "Version":"15.5",
+    "BetaVersion":"26.0"
+  },
+  "xrOS":{
+    "Version":"2.5",
+    "BetaVersion":"26.0"
+  },
+  "audioOS":{
+    "Version":"18.5",
+    "BetaVersion":"26.0"
+  }
+}
